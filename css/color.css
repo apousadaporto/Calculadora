@@ -12,11 +12,7 @@
 
 .calculadora {
     background-color: var(--negro);
-}
 
-button:not(.cero) {
-    border-radius: 50%;
-    
 }
 
 pantalla {
