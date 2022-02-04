@@ -1,2 +1,44 @@
 /* CSS COLOR */
 /* **************************************************************** */
+:root {
+
+    --negro: #000000;
+    --gris: #929191;
+    --grisO: #4b4747;
+    --naranja: #e99535;
+    --blanco: #ffffff;
+    
+}
+
+.calculadora {
+    background-color: var(--negro);
+}
+
+button:not(.cero) {
+    border-radius: 50%;
+    
+}
+
+pantalla {
+    color: var(--blanco);
+
+}
+
+.number {
+    color: var(--blanco);
+}
+
+.gris {
+    color: var(--negro);
+    background-color: var(--gris);
+
+}
+
+.naranja {
+    color: var(--blanco);
+    background-color: var(--naranja);
+}
+
+.grisO{
+    background-color: var(--grisO);
+}
