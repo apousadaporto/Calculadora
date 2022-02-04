@@ -15,3 +15,27 @@ button {
 button:not(.cero) {
     border-radius: 50%; 
 }
+
+/* ===== GRID =====
+* {
+	box-sizing: border-box;
+}
+
+.calculadora {
+	display: grid;
+	// grid-template-columns: 10px 10px 10px 10px;
+	// grid-template-columns: repeat(4, 50px);
+	grid-template-areas: ;
+	grid-template-rows: repeat(5, 50px);
+	gap: 2px;
+}
+
+input {
+	grid-column: 1/5;
+	grid-row: 1/2;
+}
+
+button {
+	border: 0;
+}
+*/

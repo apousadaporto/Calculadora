@@ -38,3 +38,7 @@ pantalla {
 .grisO{
     background-color: var(--grisO);
 }
+
+button {
+  border: solid 1px;
+}
